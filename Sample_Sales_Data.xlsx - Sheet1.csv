@@ -1,0 +1,201 @@
+Date,Product ID,Product Name,Category,Quantity Sold,Sales Amount
+2023-03-06 00:00:00,1043,Product D,Home & Kitchen,15,129.6
+2023-04-07 00:00:00,1011,Product D,Toys & Games,9,347.08
+2023-05-13 00:00:00,1030,Product A,Toys & Games,11,17.6
+2023-02-26 00:00:00,1080,Product A,Electronics,9,469.17
+2023-05-02 00:00:00,1029,Product B,Electronics,11,39.87
+2023-05-06 00:00:00,1031,Product C,Toys & Games,16,382.1
+2023-04-22 00:00:00,1017,Product A,Electronics,3,112.9
+2023-03-27 00:00:00,1042,Product D,Home & Kitchen,16,464.7
+2023-01-04 00:00:00,1070,Product A,Beauty & Health,3,345.1
+2023-02-20 00:00:00,1011,Product E,Toys & Games,6,445.43
+2023-06-01 00:00:00,1057,Product E,Toys & Games,5,59.52
+2023-06-09 00:00:00,1078,Product B,Electronics,5,263.1
+2023-03-20 00:00:00,1018,Product C,Clothing,9,469.54
+2023-02-15 00:00:00,1029,Product C,Home & Kitchen,3,242.26
+2023-01-26 00:00:00,1078,Product B,Beauty & Health,11,296.56
+2023-03-26 00:00:00,1030,Product B,Electronics,10,430.73
+2023-02-03 00:00:00,1049,Product D,Beauty & Health,6,96.27
+2023-06-13 00:00:00,1007,Product D,Beauty & Health,13,29.93
+2023-03-20 00:00:00,1023,Product C,Beauty & Health,11,498.6
+2023-04-02 00:00:00,1042,Product D,Electronics,1,94.69
+2023-04-29 00:00:00,1015,Product C,Beauty & Health,13,324.03
+2023-04-23 00:00:00,1091,Product C,Electronics,2,481.74
+2023-03-29 00:00:00,1013,Product E,Toys & Games,3,329.27
+2023-02-07 00:00:00,1021,Product D,Home & Kitchen,16,170.24
+2023-04-24 00:00:00,1048,Product A,Electronics,3,130.44
+2023-06-17 00:00:00,1021,Product E,Toys & Games,16,411.84
+2023-03-28 00:00:00,1032,Product E,Beauty & Health,4,418.01
+2023-02-03 00:00:00,1099,Product D,Clothing,18,185.26
+2023-02-17 00:00:00,1062,Product C,Electronics,7,231.18
+2023-06-05 00:00:00,1026,Product E,Electronics,15,375.45
+2023-04-03 00:00:00,1054,Product A,Beauty & Health,12,194.84
+2023-06-17 00:00:00,1039,Product A,Home & Kitchen,14,146.78
+2023-05-07 00:00:00,1085,Product B,Electronics,9,32.18
+2023-03-18 00:00:00,1093,Product B,Beauty & Health,2,172.71
+2023-01-06 00:00:00,1048,Product A,Beauty & Health,6,187.56
+2023-01-13 00:00:00,1029,Product D,Electronics,6,226.84
+2023-05-20 00:00:00,1087,Product C,Clothing,14,337.63
+2023-01-30 00:00:00,1042,Product E,Home & Kitchen,11,455.76
+2023-03-30 00:00:00,1033,Product C,Home & Kitchen,16,460.94
+2023-03-11 00:00:00,1013,Product E,Home & Kitchen,9,442.1
+2023-03-26 00:00:00,1064,Product B,Home & Kitchen,4,349.03
+2023-04-14 00:00:00,1012,Product D,Clothing,12,358.86
+2023-05-01 00:00:00,1090,Product D,Beauty & Health,1,417.18
+2023-02-25 00:00:00,1021,Product D,Clothing,4,224.21
+2023-06-20 00:00:00,1011,Product C,Toys & Games,16,230.99
+2023-04-22 00:00:00,1040,Product A,Electronics,6,226.4
+2023-03-20 00:00:00,1085,Product D,Electronics,18,497.04
+2023-06-17 00:00:00,1018,Product B,Electronics,11,459.74
+2023-06-07 00:00:00,1034,Product E,Electronics,5,238.03
+2023-06-10 00:00:00,1016,Product C,Clothing,15,282.78
+2023-02-12 00:00:00,1027,Product A,Beauty & Health,7,423.67
+2023-01-14 00:00:00,1082,Product A,Electronics,17,99.54
+2023-06-25 00:00:00,1018,Product D,Toys & Games,3,471.68
+2023-03-20 00:00:00,1091,Product B,Toys & Games,11,424.73
+2023-06-19 00:00:00,1035,Product E,Beauty & Health,17,417.34
+2023-03-16 00:00:00,1073,Product E,Toys & Games,3,101.83
+2023-05-23 00:00:00,1084,Product E,Toys & Games,5,168.26
+2023-06-19 00:00:00,1037,Product E,Clothing,14,67.76
+2023-05-30 00:00:00,1041,Product D,Beauty & Health,16,23.18
+2023-04-24 00:00:00,1033,Product A,Home & Kitchen,8,66.66
+2023-01-08 00:00:00,1088,Product E,Toys & Games,9,475.12
+2023-02-25 00:00:00,1038,Product D,Clothing,4,426.08
+2023-03-27 00:00:00,1055,Product A,Beauty & Health,2,42.43
+2023-03-13 00:00:00,1029,Product A,Toys & Games,10,455.21
+2023-05-22 00:00:00,1006,Product B,Toys & Games,9,432.07
+2023-02-14 00:00:00,1069,Product A,Clothing,8,33.47
+2023-06-02 00:00:00,1008,Product B,Beauty & Health,19,334.12
+2023-04-01 00:00:00,1082,Product C,Home & Kitchen,12,32.15
+2023-04-04 00:00:00,1013,Product C,Home & Kitchen,2,484.97
+2023-03-07 00:00:00,1078,Product B,Beauty & Health,6,212.34
+2023-01-02 00:00:00,1045,Product B,Beauty & Health,2,92.38
+2023-02-28 00:00:00,1048,Product A,Electronics,17,177.52
+2023-05-31 00:00:00,1063,Product E,Toys & Games,3,162.39
+2023-03-24 00:00:00,1049,Product C,Home & Kitchen,8,165.76
+2023-06-28 00:00:00,1016,Product A,Electronics,1,204.75
+2023-01-02 00:00:00,1080,Product A,Toys & Games,5,300.72
+2023-02-17 00:00:00,1086,Product D,Clothing,4,320.02
+2023-02-16 00:00:00,1025,Product D,Toys & Games,12,479.37
+2023-01-01 00:00:00,1025,Product B,Beauty & Health,7,167.42
+2023-01-11 00:00:00,1033,Product A,Toys & Games,9,65.63
+2023-04-29 00:00:00,1047,Product C,Toys & Games,7,339.62
+2023-02-09 00:00:00,1003,Product B,Beauty & Health,12,430.95
+2023-03-06 00:00:00,1066,Product B,Electronics,8,125.9
+2023-06-08 00:00:00,1026,Product A,Electronics,11,243.76
+2023-01-21 00:00:00,1059,Product E,Electronics,4,179.08
+2023-06-06 00:00:00,1076,Product E,Toys & Games,14,476.89
+2023-01-25 00:00:00,1069,Product C,Beauty & Health,14,180.14
+2023-02-08 00:00:00,1078,Product E,Electronics,2,297.84
+2023-04-23 00:00:00,1013,Product A,Electronics,6,177.22
+2023-05-06 00:00:00,1017,Product B,Home & Kitchen,19,482.79
+2023-05-23 00:00:00,1051,Product E,Clothing,16,155.65
+2023-03-08 00:00:00,1093,Product D,Electronics,18,127.04
+2023-06-25 00:00:00,1039,Product A,Electronics,16,26.55
+2023-06-19 00:00:00,1014,Product E,Clothing,4,419.68
+2023-03-04 00:00:00,1080,Product D,Electronics,3,192.69
+2023-06-12 00:00:00,1030,Product A,Electronics,10,147.38
+2023-05-09 00:00:00,1031,Product D,Home & Kitchen,13,138.38
+2023-04-18 00:00:00,1067,Product A,Clothing,7,334.77
+2023-02-28 00:00:00,1059,Product C,Toys & Games,16,371.76
+2023-02-23 00:00:00,1089,Product C,Toys & Games,13,237.61
+2023-03-28 00:00:00,1078,Product A,Beauty & Health,4,234.04
+2023-01-12 00:00:00,1003,Product A,Beauty & Health,12,85.08
+2023-06-20 00:00:00,1050,Product E,Electronics,6,78.47
+2023-01-31 00:00:00,1008,Product D,Electronics,19,394.12
+2023-03-01 00:00:00,1062,Product C,Toys & Games,17,389.92
+2023-06-16 00:00:00,1057,Product E,Toys & Games,13,240.88
+2023-04-13 00:00:00,1077,Product D,Beauty & Health,19,129.09
+2023-01-06 00:00:00,1078,Product D,Toys & Games,17,47.04
+2023-03-08 00:00:00,1030,Product A,Clothing,7,112.9
+2023-02-24 00:00:00,1061,Product E,Clothing,19,41.09
+2023-02-11 00:00:00,1049,Product B,Clothing,16,207.38
+2023-05-20 00:00:00,1012,Product A,Electronics,19,37.83
+2023-04-19 00:00:00,1030,Product B,Beauty & Health,4,247.51
+2023-03-20 00:00:00,1034,Product B,Toys & Games,17,193.23
+2023-03-30 00:00:00,1033,Product E,Toys & Games,6,360.19
+2023-01-17 00:00:00,1078,Product B,Electronics,11,10.51
+2023-03-01 00:00:00,1072,Product E,Electronics,16,496.45
+2023-03-28 00:00:00,1008,Product D,Toys & Games,18,47.1
+2023-01-26 00:00:00,1039,Product C,Beauty & Health,12,346.13
+2023-06-15 00:00:00,1064,Product E,Clothing,15,451.52
+2023-06-27 00:00:00,1074,Product D,Toys & Games,17,393.04
+2023-06-02 00:00:00,1080,Product B,Home & Kitchen,16,490.84
+2023-05-03 00:00:00,1021,Product C,Beauty & Health,2,119.3
+2023-02-13 00:00:00,1025,Product D,Beauty & Health,10,389.69
+2023-04-28 00:00:00,1097,Product A,Beauty & Health,9,12.46
+2023-01-26 00:00:00,1086,Product B,Beauty & Health,5,146.39
+2023-01-24 00:00:00,1025,Product E,Electronics,8,251.01
+2023-01-06 00:00:00,1013,Product B,Toys & Games,2,490.01
+2023-02-16 00:00:00,1041,Product B,Clothing,9,348.46
+2023-03-08 00:00:00,1034,Product A,Toys & Games,11,122.22
+2023-05-16 00:00:00,1073,Product E,Beauty & Health,13,362.15
+2023-01-08 00:00:00,1050,Product A,Home & Kitchen,19,325.57
+2023-02-14 00:00:00,1029,Product E,Beauty & Health,18,399.19
+2023-04-28 00:00:00,1050,Product B,Home & Kitchen,9,464.69
+2023-01-19 00:00:00,1026,Product E,Home & Kitchen,8,11.63
+2023-06-27 00:00:00,1050,Product D,Home & Kitchen,5,360.17
+2023-02-02 00:00:00,1025,Product B,Beauty & Health,14,17.92
+2023-06-30 00:00:00,1013,Product D,Clothing,15,200.12
+2023-03-21 00:00:00,1027,Product D,Electronics,9,199.42
+2023-04-28 00:00:00,1052,Product C,Electronics,8,149.5
+2023-03-18 00:00:00,1052,Product B,Toys & Games,11,254.27
+2023-03-29 00:00:00,1022,Product B,Clothing,16,408.73
+2023-03-15 00:00:00,1033,Product E,Electronics,12,440.03
+2023-02-03 00:00:00,1015,Product D,Beauty & Health,16,347.91
+2023-01-30 00:00:00,1014,Product D,Electronics,8,304.9
+2023-01-15 00:00:00,1002,Product C,Electronics,7,317.97
+2023-04-14 00:00:00,1040,Product C,Clothing,10,227.08
+2023-03-26 00:00:00,1011,Product B,Home & Kitchen,4,286.91
+2023-04-19 00:00:00,1040,Product A,Toys & Games,10,312.45
+2023-05-27 00:00:00,1001,Product B,Home & Kitchen,13,344.74
+2023-04-09 00:00:00,1093,Product E,Toys & Games,1,359.94
+2023-02-21 00:00:00,1047,Product D,Clothing,12,187.7
+2023-06-14 00:00:00,1035,Product C,Home & Kitchen,13,51.24
+2023-05-10 00:00:00,1095,Product D,Electronics,15,290.84
+2023-06-24 00:00:00,1043,Product B,Clothing,19,249.96
+2023-03-03 00:00:00,1068,Product D,Home & Kitchen,18,481.72
+2023-01-07 00:00:00,1035,Product E,Toys & Games,2,51.73
+2023-01-01 00:00:00,1089,Product D,Beauty & Health,19,457.48
+2023-01-27 00:00:00,1049,Product E,Electronics,3,349.85
+2023-06-27 00:00:00,1021,Product D,Home & Kitchen,7,178.77
+2023-01-27 00:00:00,1044,Product E,Electronics,18,174.09
+2023-04-08 00:00:00,1090,Product E,Beauty & Health,11,36.18
+2023-05-10 00:00:00,1011,Product C,Electronics,7,451.41
+2023-06-08 00:00:00,1037,Product B,Home & Kitchen,3,140.54
+2023-06-13 00:00:00,1016,Product C,Home & Kitchen,10,310.7
+2023-01-13 00:00:00,1099,Product C,Electronics,16,294.49
+2023-01-10 00:00:00,1041,Product B,Electronics,17,90.01
+2023-06-04 00:00:00,1047,Product C,Beauty & Health,11,474.57
+2023-01-04 00:00:00,1051,Product D,Clothing,14,345.44
+2023-03-12 00:00:00,1098,Product B,Home & Kitchen,9,432.06
+2023-04-09 00:00:00,1058,Product C,Home & Kitchen,18,212.46
+2023-03-22 00:00:00,1016,Product B,Electronics,14,154.65
+2023-02-11 00:00:00,1038,Product D,Beauty & Health,8,144.67
+2023-04-20 00:00:00,1012,Product C,Toys & Games,1,265.72
+2023-03-07 00:00:00,1069,Product E,Toys & Games,7,87.46
+2023-04-07 00:00:00,1047,Product A,Toys & Games,1,348
+2023-02-12 00:00:00,1058,Product E,Clothing,6,61.09
+2023-06-13 00:00:00,1063,Product C,Home & Kitchen,6,474.92
+2023-04-25 00:00:00,1032,Product D,Clothing,18,364.7
+2023-03-16 00:00:00,1004,Product A,Beauty & Health,12,193
+2023-03-29 00:00:00,1063,Product A,Electronics,5,351.97
+2023-01-17 00:00:00,1004,Product B,Clothing,10,260.21
+2023-06-02 00:00:00,1036,Product C,Beauty & Health,1,248.12
+2023-03-15 00:00:00,1092,Product A,Electronics,9,135.65
+2023-01-02 00:00:00,1068,Product D,Beauty & Health,18,68.69
+2023-05-29 00:00:00,1079,Product A,Home & Kitchen,5,112.62
+2023-01-11 00:00:00,1070,Product A,Home & Kitchen,7,377.92
+2023-02-22 00:00:00,1034,Product C,Beauty & Health,15,358.91
+2023-06-17 00:00:00,1060,Product C,Toys & Games,19,392.89
+2023-05-25 00:00:00,1011,Product C,Beauty & Health,19,265.27
+2023-03-01 00:00:00,1023,Product D,Clothing,1,406.69
+2023-03-08 00:00:00,1030,Product B,Clothing,19,106.71
+2023-04-25 00:00:00,1010,Product A,Toys & Games,11,366
+2023-06-02 00:00:00,1017,Product D,Toys & Games,7,26.94
+2023-02-21 00:00:00,1072,Product A,Electronics,1,71.05
+2023-03-28 00:00:00,1050,Product B,Beauty & Health,6,86.85
+2023-01-01 00:00:00,1084,Product A,Toys & Games,1,272.02
+2023-05-22 00:00:00,1092,Product A,Home & Kitchen,11,408.94
+2023-05-09 00:00:00,1029,Product D,Electronics,6,48.16
+2023-05-15 00:00:00,1028,Product B,Home & Kitchen,3,158.77
